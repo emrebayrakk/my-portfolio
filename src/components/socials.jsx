@@ -27,16 +27,16 @@ import {
             </SpeedDialHandler>
             <SpeedDialContent>
               <SpeedDialAction>
-              <a href="https://twitter.com/catcutd" target="_blank"><img src={twitterico} className="h-5 w-5"></img></a>
+              <a href="https://twitter.com/catcutd" rel="noreferrer" target="_blank"><img src={twitterico} alt="twitter" className="h-5 w-5"></img></a>
               </SpeedDialAction>
               <SpeedDialAction>
-              <a href="https://www.linkedin.com/in/eemmrree/" target="_blank"><img src={linkedinico} className="h-5 w-5"></img></a>
+              <a href="https://www.linkedin.com/in/eemmrree/" rel="noreferrer" target="_blank"><img src={linkedinico} alt="linkedin" className="h-5 w-5"></img></a>
               </SpeedDialAction>
               <SpeedDialAction>
-              <a href="https://github.com/emrebayrakk" target="_blank"><img src={githubico} className="h-5 w-5"></img></a>
+              <a href="https://github.com/emrebayrakk" rel="noreferrer" target="_blank"><img src={githubico} className="h-5 w-5" alt="github"></img></a>
               </SpeedDialAction>
               <SpeedDialAction>
-              <a href="mailto:eemmrree0@outlook.com" target="_blank"><img src={emailico} className="h-5 w-5"></img></a>
+              <a href="mailto:eemmrree0@outlook.com"><img src={emailico} className="h-5 w-5" alt="email"></img></a>
               </SpeedDialAction>
             </SpeedDialContent>
           </SpeedDial>
