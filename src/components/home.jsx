@@ -26,7 +26,7 @@ export function NavbarDefault() {
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="#" className="flex items-center">
+        <a href="https://eemmrree.netlify.app/" className="flex items-center">
           Home
         </a>
       </Typography>
@@ -36,7 +36,7 @@ export function NavbarDefault() {
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="#" className="flex items-center">
+        <a href="https://eemmrree.netlify.app/" className="flex items-center">
           About
         </a>
       </Typography>
@@ -46,7 +46,7 @@ export function NavbarDefault() {
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="#" className="flex items-center">
+        <a href="https://eemmrree.netlify.app/" className="flex items-center">
           Projects
         </a>
       </Typography>
@@ -56,7 +56,7 @@ export function NavbarDefault() {
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="#" className="flex items-center">
+        <a href="https://eemmrree.netlify.app/" className="flex items-center">
           Experience
         </a>
       </Typography>
